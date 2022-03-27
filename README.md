@@ -33,3 +33,10 @@ I'm not an expert in the language, I'm only starting to learn it but here are so
 
 # Grammer
 * [GuideToJapanese](https://guidetojapanese.org/learn/) (Site)
+* [8020japanese Sentence Structure](https://8020japanese.com/japanese-sentence-structure/)
+* * [Basic “desu” sentences](https://8020japanese.com/japanese-sentence-structure/#desu)
+* * [How particles work](https://8020japanese.com/japanese-sentence-structure/#particles)
+* * [Defining different roles](https://8020japanese.com/japanese-sentence-structure/#roles)
+* * [Expanding individual elements](https://8020japanese.com/japanese-sentence-structure/#expanding-elements)
+* [tofugo Guide](https://www.tofugu.com/learn-japanese/)
+* * [Japanese Grammar](https://www.tofugu.com/japanese-grammar/)
