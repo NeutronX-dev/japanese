@@ -27,7 +27,7 @@ I'm not an expert in the language, I'm only starting to learn it but here are so
 
 # Vocabulary
 * [iKnow](https://iknow.jp/content/japanese) (Site)
-* [jisho](https://jisho.org/)
+* [jisho](https://jisho.org/) (Site) (Dictionary)
 * [Anki](https://apps.ankiweb.net/) (App)
 * * [Core 2k/6k Optimized Japanese Vocabulary](https://ankiweb.net/shared/info/1880390099)
 
