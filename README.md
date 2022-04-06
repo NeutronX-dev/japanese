@@ -116,8 +116,8 @@ I'm not an expert in the language, I'm only starting to learn it but here are so
 * * すごい (Sugoi) – “Amazing”
 * * 楽しい (Tanoshii) – “Enjoyable” or “Pleasant”
 * * とても (Totemo) – “Very”
-* Conjunctions and Connectors
-* * * しかし (Shikashi) – “However”
+* Conjunctions and Connectors (8)
+* * しかし (Shikashi) – “However”
 * * また (Mata) – “Also”
 * * その後 (Sono ato) – “After that”
 * * その時 (Sono toki) – “At that time”
