@@ -8,7 +8,8 @@ I'm not an expert in the language, I'm only starting to learn it but here are so
 * * [Katakana](#katakana)
 * * [Practice Kana](#practicing-kana)
 * [Learning Vocabulary](#vocabulary)
-* [Learning Grammar](#)
+* [Learning Grammar](#grammer)
+* [101 Core Japanese Words Source](#101-core-japanese-words-source)
 
   
 
