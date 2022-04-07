@@ -41,6 +41,7 @@ I'm not an expert in the language, I'm only starting to learn it but here are so
 * * [Expanding individual elements](https://8020japanese.com/japanese-sentence-structure/#expanding-elements)
 * [tofugo Guide](https://www.tofugu.com/learn-japanese/)
 * * [Japanese Grammar](https://www.tofugu.com/japanese-grammar/)
+* [Japanese Verb Conjugator](http://www.japaneseverbconjugator.com/)
 
 # 101 Core Japanese Words ([Source](https://www.fluentin3months.com/core-japanese-words/))
 * Pronouns (8)
